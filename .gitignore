@@ -160,5 +160,6 @@ cython_debug/
 
 # MacOS
 .DS_Store
-config.bat
 node_modules
+
+.env
